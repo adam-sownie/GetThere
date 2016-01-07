@@ -1,4 +1,1 @@
-echo -n a >> ToBeFilledWithTheLetterA.txt
-git add ToBeFilledWithTheLetterA.txt
-git commit -m 'added letter a to ToBeFilledWithTheLetterA.txt'
-git push
+echo -n a >> /home/ec2-user/GetThere/ToBeFilledWithTheLetterA.txt
