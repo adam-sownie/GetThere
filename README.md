@@ -1,4 +1,4 @@
 # GetThere
-This is just some garbage where I use a cronjob to inflate my commit score.
+An AWS instance is updating this date file every hour.
 
-I'm using an AWS instance so that I can just set it and forget it.
+It's a proof of concept.
